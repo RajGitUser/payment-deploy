@@ -2,5 +2,5 @@ configmap:
   amqpuser: "roboshop"
   amqppass: "roboshop123"
 deployment:
-  imageid: rajmdevops/payment
-  version: v1
+  imageid: 848332098195.dkr.ecr.us-east-1.amazonaws.com/roboshop/payment
+  version: IMAGE_VERSION
